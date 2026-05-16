@@ -1,4 +1,4 @@
-# AI-RAG-Assistant-Chatbot# AI RAG Assistant Chatbot
+# AI-RAG-Assistant-Chatbot
 
 This is a Retrieval-Augmented Generation (RAG) chatbot built using:
 
@@ -27,7 +27,7 @@ streamlit run app.py
 ```
 ```
 
----
+
 
 # STEP 12: Google Colab Method
 
