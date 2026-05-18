@@ -1,0 +1,6 @@
+Based on the context provided, the core concepts of neural networks include:
+
+*   **Neurons and Layers:** Neural networks are made up of units called neurons organized into an input layer, one or more hidden layers, and an output layer.
+*   **Weights:** Neurons are connected by weights, which the network adjusts during training to learn.
+*   **Activation Functions:** These functions (such as ReLU, Sigmoid, or Tanh) introduce non-linearity, allowing the network to learn complex patterns.
+*   **Architectures:** There are various types of neural network structures, including feedforward (FNN), convolutional (CNN), and recurrent (RNN) networks.
