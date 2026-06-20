@@ -1,8 +1,6 @@
 # AI-RAG-Assistant-Chatbot
 
 This is a Retrieval-Augmented Generation (RAG) chatbot built using:
-- Streamlit
-- LangChain
 
 
 
