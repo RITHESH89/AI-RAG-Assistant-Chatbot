@@ -3,8 +3,6 @@
 This is a Retrieval-Augmented Generation (RAG) chatbot built using:
 - Streamlit
 - LangChain
-- FAISS
-- python
 
 
 
