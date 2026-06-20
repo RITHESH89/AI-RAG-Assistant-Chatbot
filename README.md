@@ -3,7 +3,6 @@
 This is a Retrieval-Augmented Generation (RAG) chatbot built using:
 
 
-
 ## Features
 
 - Upload PDFs
